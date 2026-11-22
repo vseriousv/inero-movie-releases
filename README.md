@@ -6,4 +6,4 @@ Downloads of Inero Movie for macOS: a reel editor that takes one idea to a publi
 `.dmg` and drag Inero Movie to Applications. The app is signed with a Developer ID and notarized by Apple, and it
 updates itself (Inero Movie → Check for Updates…).
 
-Requires macOS 15 or later on Apple silicon.
+Requires macOS 15 or later (Apple silicon and Intel).
